@@ -12,7 +12,7 @@ from Bio.Blast import NCBIXML
 blastOutputXMLFile = sys.argv[1]
 
 blastOutputXMLHandle = open(blastOutputXMLFile)
-out_blast_records = open('output.fasta', "w")
+out_blast_records = open('output2.fasta', "w")
 sys.stdout = out_blast_records
 listOfBlastRecords = NCBIXML.parse(blastOutputXMLHandle)
 
