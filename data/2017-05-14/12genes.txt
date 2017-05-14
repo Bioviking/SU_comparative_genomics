@@ -1,0 +1,10 @@
+./Cluster_2:>./12.fa.txt_orf02222_rev
+./Cluster_3:>./12.fa.txt_orf01572_rev
+./Cluster_8:>./12.fa.txt_orf00842_rev
+./Cluster_1:>./12.fa.txt_orf00613_rev
+./Cluster_5:>./12.fa.txt_orf01059_rev
+./Cluster_9:>./12.fa.txt_orf04121_rev
+./Cluster_4:>./12.fa.txt_orf06622_rev
+./Cluster_7:>./12.fa.txt_orf06057_rev
+./Cluster_0:>./12.fa.txt_orf03561_rev
+./Cluster_6:>./12.fa.txt_orf05418_rev
