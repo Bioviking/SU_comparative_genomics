@@ -1,0 +1,10 @@
+((Ctrach:0.425,Ecoli:0.419):0.019,(Gsulfur:0.427,Gviola:0.445):0.005);
+(((Ecoli:0.205,Gviola:0.205):0.075,Gsulfur:0.274):0.066,Ctrach:0.343);
+(((Ecoli:0.243,Gsulfur:0.204):0.013,Gviola:0.228):0.035,Ctrach:0.267);
+((Ctrach:0.415,Ecoli:0.381):0.048,(Gviola:0.464,Gsulfur:0.422):0.002);
+(Gviola:0.418,(Gsulfur:0.413,(Ctrach:0.343,Ecoli:0.353):0.060):0.008);
+((Gsulfur:0.409,Gviola:0.448):0.012,(Ecoli:0.400,Ctrach:0.404):0.038);
+((Ctrach:0.332,Gviola:0.432):0.012,(Ecoli:0.391,Gsulfur:0.384):0.007);
+(Ctrach:0.308,((Ecoli:0.290,Gviola:0.264):0.012,Gsulfur:0.268):0.029);
+(Gsulfur:0.434,((Ecoli:0.399,Ctrach:0.397):0.010,Gviola:0.425):0.017);
+(Gsulfur:0.421,((Ecoli:0.287,Ctrach:0.299):0.070,Gviola:0.409):0.035);
