@@ -1,5 +1,5 @@
 import sys, re
-import pickle
+
 # acquire first needed data
 
 geneOrderList = []
@@ -14,7 +14,7 @@ for aLine in lines:
 
     if aLine.startswith (">"):
         
-		# print aLine [1:len (aLine)],
+        print aLine [0:len (aLine)],
         geneOrderList.append (aLine [0:len (aLine)])
 
 # acquire second needed data
@@ -37,18 +37,19 @@ for aLine in lines:
             partOfCluster [aWord] = id
     
     id = id + 1
-print partOfCluster
+#print partOfCluster
 # put together
-output = open ('geneOrder.txt', 'w+')
+output = open ('geneOrder12.txt', 'w+')
 
 for aGene in geneOrderList:
     #print aGene,
     if partOfCluster.has_key (aGene):
         print partOfCluster [aGene],
-           
+    else:
+        continue       
     print >> output, partOfCluster [aGene],
 
-        
+output.close()       
         #pickle.dump(partOfCluster[aGene], output)
 #output.close()
         
