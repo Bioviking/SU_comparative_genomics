@@ -18,81 +18,41 @@ for counter, seq  in enumerate(f2):
     #print('is dict', dict_seq)
     #print(counter)
 
-for name in glob.glob('geneOrder*.txt'):
-    
-    f1 = open(name, 'r')
-    f1 = f1.readline().split(' ')
-    #print(f1)
-    list_ele = []
-    print(name)
-    print('\n')
-    print('\n')
-    #if dict_ele.keys() ==
-    
-    #else:
-    for ele in f1:
-        print(ele)
-        #print('This is ele', ele)
-        ele = int(ele)
-        print(ele)
-        list_ele.append(ele)
-    #print(list_ele)
-    
-    #for i in list_ele:
-        #print(dict_seq[i])
-        #print(i)
-        #dict_both[i] = 
-        #list1.append(dict_seq[i])
-        #list2 = ''.join(list1) 
-    #print(list2)
-    #dict_both[ele] = dict_seq.values()
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    #print(dict_both)
-        #dict_both.value[] = dict_seq.key(ele)
+with open(('pseudo_all.txt'), 'w+') as allwrite:
+    for name in glob.glob('geneOrder*.txt'):    
+        print(name)
+        f1 = open(name, 'r')
+
         
+        list_ele = []
+        seq_list = []
+        join_list = []
         
-    #print(list2)
-    #print(dict_both)
-    #print(list2)    
-        #print('is dict', dict_ele)
-    #print(counter)
-    
-    #for i in list_ele:
-        
-        #print(i)
-        #print('is list', list_ele[i])
-        #print(dict_ele[D_keys])
-        #print(ele)
-        #dict_both[i] = dict_seq[ele]
-        #print(dict_both)
-        
-        
-        #for D_key2 in dict_seq.keys():
-            #print(D_keys)
-            #if 
-                        
-#        list1.append(dict_seq[D_key1])
-#        list2 = ''.join(list1)    
-            
-    
-    #print(dict_both)
+        for line in f1:
+            line = line.split(' ')
+            #print(line)
+            for ele in line:
+                ele = int(ele)
+                #print(ele)
+                list_ele.append(ele)
+            #print(list_ele)
+            for i_ele in list_ele:
+                #print(dict_seq[])
+                #print(i_ele, dict_seq[i_ele])
+                if i_ele in dict_seq.keys():
+                    dict_both[i_ele] = dict_seq[i_ele]
+                    #print(dict_both[i_ele])
+                    seq_list.append(dict_both[i_ele])
+                    join_list =  ''.join(seq_list)
+                #print(seq_list)
+            print(join_list) 
+        with open(('pseudo_'+name), 'w+') as pseudowrite:
+            pseudowrite.write('>pseudo' + '%s\n%s' % (name, join_list))         
+
+        allwrite.write('>pseudo' + '%s\n%s\n' % (name, join_list))
 #print(list1)
 #print(list2)
-#with open(('pseudo_'+name), 'w+') as pseudowrite:
-#    pseudowrite.write( '%s\n%s' % (name, list2))
+#
     
-#pseudowrite.close()
+pseudowrite.close()
+allwrite.close()

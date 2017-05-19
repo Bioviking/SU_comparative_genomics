@@ -1,0 +1,16 @@
+Running:                      	./grimm
+Input:                        	checkcheck.txt
+Genome:                       	Circular
+Signs:                        	Signed
+Number of Genomes:            	4
+Number of Genes:              	661
+Number of Chromosomes:        	0 (unichromosomal)
+
+Distance Matrix:
+
+   4
+Genome1             	0 615 613 639 
+Genome2             	615 0 613 629 
+Genome3             	613 613 0 635 
+Genome4             	639 629 635 0 
+
