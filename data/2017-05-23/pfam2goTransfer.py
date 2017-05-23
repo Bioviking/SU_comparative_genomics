@@ -42,7 +42,7 @@ for aLine in lines:
 	for domain in arch.split ():
                 m = re.match('.*(PF[0-9A-Z]+).', domain)
                 if m:
-		        lDomains [m.group(1)] = ""
+                    lDomains [m.group(1)] = ""
 
 	lPredictions = {}
 

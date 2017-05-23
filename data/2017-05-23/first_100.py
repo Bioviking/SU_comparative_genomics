@@ -17,27 +17,3 @@ for name in glob.glob('*.fa.txt.pfa'):
             allwrite.write('>' + '%s\n%s\n' % (my_record[i].id, my_record[i].seq))
 
 allwrite.close()
-            
-            
-            #
-         #   for seq_record in my_record:
-          #      print(myreseq_record[0].id)
-                
-#                print("%i %s" % (index, seq_record))
- #               print(my_record[:100]) #last letter
-            #
-             #   print()
-                
-                #print(seq_record)
-                #for seq_record in SeqIO.parse(name, "fasta")):
-                 #   print
-                 #   print('this is', counter, seq_record.id)
-                
-            #for counter in range(0,100):
-                
-                #print(seq_record)
-                #print(repr(seq_record.seq))
-                #print(len(seq_record))
-            
-            
-

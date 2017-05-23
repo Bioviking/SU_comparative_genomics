@@ -1,0 +1,151 @@
+./12.fa.txt_orf00001 -> 
+./12.fa.txt_orf00003 -> GO:0003700	GO:0006355	GO:0005622
+./12.fa.txt_orf00003 -> 
+./12.fa.txt_orf00004 -> GO:0005215	GO:0016020	GO:0006810
+./12.fa.txt_orf00005 -> GO:0006470	GO:0004725
+./12.fa.txt_orf00007 -> 
+./12.fa.txt_orf00009 -> GO:0006470	GO:0008138
+./12.fa.txt_orf00009 -> GO:0006470	GO:0004725
+./12.fa.txt_orf00009 -> 
+./12.fa.txt_orf00009 -> 
+./12.fa.txt_orf00010 -> GO:0003700	GO:0006355	GO:0005622
+./12.fa.txt_orf00010 -> 
+./12.fa.txt_orf00013 -> 
+./12.fa.txt_orf00013 -> 
+./12.fa.txt_orf00014 -> GO:0005215	GO:0016020	GO:0006810
+./12.fa.txt_orf00015 -> GO:0005215	GO:0016020	GO:0006810
+./12.fa.txt_orf00016 -> GO:0016887	GO:0005524
+./12.fa.txt_orf00016 -> 
+./12.fa.txt_orf00019 -> 
+./12.fa.txt_orf00019 -> 
+./12.fa.txt_orf00020 -> 
+./12.fa.txt_orf00020 -> 
+./12.fa.txt_orf00021 -> 
+./12.fa.txt_orf00021 -> 
+./12.fa.txt_orf00023 -> 
+./12.fa.txt_orf00023 -> 
+./12.fa.txt_orf00024 -> 
+./12.fa.txt_orf00024 -> 
+./12.fa.txt_orf00028_rev -> 
+./12.fa.txt_orf00028_rev -> 
+./12.fa.txt_orf00031_rev -> GO:0005215	GO:0006810
+./12.fa.txt_orf00031_rev -> GO:0005215	GO:0006810
+./12.fa.txt_orf00032_rev -> 
+./12.fa.txt_orf00032_rev -> 
+./12.fa.txt_orf00034_rev -> GO:0016887	GO:0005524
+./12.fa.txt_orf00036_rev -> GO:0000160	GO:0000156	GO:0006355	GO:0003677
+./12.fa.txt_orf00036_rev -> GO:0000160	GO:0000156	GO:0006355
+./12.fa.txt_orf00037_rev -> GO:0005524
+./12.fa.txt_orf00037_rev -> GO:0000155	GO:0016020	GO:0007165
+./12.fa.txt_orf00037_rev -> GO:0016020	GO:0007165	GO:0004871
+./12.fa.txt_orf00040_rev -> GO:0005524	GO:0003676	GO:0004386
+./12.fa.txt_orf00040_rev -> GO:0008026	GO:0005524	GO:0003676
+./12.fa.txt_orf00040_rev -> GO:0016787	GO:0005524	GO:0003677
+./12.fa.txt_orf00042_rev -> GO:0006118	GO:0016491
+./12.fa.txt_orf00045 -> 
+./12.fa.txt_orf00046 -> GO:0016209	GO:0016491
+./12.fa.txt_orf00046 -> GO:0016491
+./12.fa.txt_orf00047_rev -> GO:0009052	GO:0004751
+./12.fa.txt_orf00050_rev -> GO:0008168	GO:0008152
+./12.fa.txt_orf00051 -> GO:0005524
+./12.fa.txt_orf00051 -> GO:0000160	GO:0000156	GO:0006355
+./12.fa.txt_orf00051 -> GO:0000155	GO:0016020	GO:0007165
+./12.fa.txt_orf00051 -> 
+./12.fa.txt_orf00053_rev -> GO:0003678	GO:0006260	GO:0005524
+./12.fa.txt_orf00053_rev -> GO:0003678	GO:0006260	GO:0005524
+./12.fa.txt_orf00053_rev -> GO:0003678	GO:0006260	GO:0005524
+./12.fa.txt_orf00053_rev -> 
+./12.fa.txt_orf00053_rev -> 
+./12.fa.txt_orf00054 -> GO:0006516	GO:0004067
+./12.fa.txt_orf00055_rev -> 
+./12.fa.txt_orf00057_rev -> 
+./12.fa.txt_orf00057_rev -> 
+./12.fa.txt_orf00058_rev -> 
+./12.fa.txt_orf00060_rev -> 
+./12.fa.txt_orf00061 -> 
+./12.fa.txt_orf00062 -> GO:0003676
+./12.fa.txt_orf00062 -> GO:0016787	GO:0030145
+./12.fa.txt_orf00065 -> GO:0003824
+./12.fa.txt_orf00065 -> 
+./12.fa.txt_orf00072_rev -> 
+./12.fa.txt_orf00072_rev -> 
+./12.fa.txt_orf00072_rev -> 
+./12.fa.txt_orf00073 -> 
+./12.fa.txt_orf00077 -> GO:0016037	GO:0030089	GO:0031404
+./12.fa.txt_orf00077 -> GO:0006810	GO:0005622
+./12.fa.txt_orf00077 -> 
+./12.fa.txt_orf00079_rev -> 
+./12.fa.txt_orf00079_rev -> 
+./12.fa.txt_orf00079_rev -> 
+./12.fa.txt_orf00080_rev -> GO:0016887	GO:0005524
+./12.fa.txt_orf00081_rev -> 
+./12.fa.txt_orf00081_rev -> 
+./12.fa.txt_orf00081_rev -> 
+./12.fa.txt_orf00082_rev -> GO:0006468	GO:0005524	GO:0004672
+./12.fa.txt_orf00082_rev -> GO:0006468	GO:0004713	GO:0005524
+./12.fa.txt_orf00084_rev -> GO:0005524
+./12.fa.txt_orf00084_rev -> GO:0000155	GO:0016020	GO:0007165
+./12.fa.txt_orf00084_rev -> GO:0016020	GO:0007165	GO:0004871
+./12.fa.txt_orf00084_rev -> GO:0006355
+./12.fa.txt_orf00084_rev -> 
+./12.fa.txt_orf00084_rev -> 
+./12.fa.txt_orf00085 -> GO:0016787
+./12.fa.txt_orf00086 -> 
+./12.fa.txt_orf00087 -> 
+./12.fa.txt_orf00087 -> 
+./12.fa.txt_orf00087 -> GO:0000272
+./12.fa.txt_orf00089 -> GO:0000272
+./12.fa.txt_orf00089 -> 
+./12.fa.txt_orf00089 -> 
+./12.fa.txt_orf00090 -> 
+./12.fa.txt_orf00090 -> GO:0000272
+./12.fa.txt_orf00090 -> 
+./12.fa.txt_orf00092_rev -> GO:0019867
+./12.fa.txt_orf00094_rev -> GO:0003700	GO:0043565	GO:0005622	GO:0006355
+./12.fa.txt_orf00094_rev -> GO:0000160	GO:0000156	GO:0006355
+./12.fa.txt_orf00096_rev -> 
+./12.fa.txt_orf00097_rev -> 
+./12.fa.txt_orf00099_rev -> GO:0003887	GO:0009360	GO:0006260	GO:0003677
+./12.fa.txt_orf00102_rev -> GO:0006508	GO:0008236
+./12.fa.txt_orf00102_rev -> 
+./12.fa.txt_orf00104_rev -> 
+./12.fa.txt_orf00106_rev -> GO:0008652
+./12.fa.txt_orf00106_rev -> GO:0003723
+./12.fa.txt_orf00109 -> GO:0008483	GO:0030170
+./12.fa.txt_orf00110 -> GO:0006508	GO:0016020	GO:0004190
+./12.fa.txt_orf00112 -> GO:0001522	GO:0003723	GO:0009982
+./12.fa.txt_orf00112 -> GO:0003723
+./12.fa.txt_orf00114_rev -> 
+./12.fa.txt_orf00115 -> GO:0004519	GO:0003676
+./12.fa.txt_orf00116 -> GO:0004803	GO:0006313	GO:0003677
+./12.fa.txt_orf00117 -> GO:0015074	GO:0003677
+./12.fa.txt_orf00117 -> 
+./12.fa.txt_orf00117 -> 
+./12.fa.txt_orf00117 -> 
+./12.fa.txt_orf00117 -> 
+./12.fa.txt_orf00118 -> 
+./12.fa.txt_orf00120 -> GO:0009579	GO:0016021	GO:0015979	GO:0009507
+./12.fa.txt_orf00122 -> GO:0006013	GO:0015923
+./12.fa.txt_orf00122 -> GO:0005975	GO:0004559
+./12.fa.txt_orf00122 -> 
+./12.fa.txt_orf00122 -> GO:0003824	GO:0005975
+./12.fa.txt_orf00123 -> GO:0016021
+./12.fa.txt_orf00124_rev -> 
+./12.fa.txt_orf00124_rev -> GO:0009058
+./12.fa.txt_orf00124_rev -> 
+./12.fa.txt_orf00124_rev -> 
+./12.fa.txt_orf00125_rev -> 
+./12.fa.txt_orf00125_rev -> 
+./12.fa.txt_orf00125_rev -> 
+./12.fa.txt_orf00125_rev -> GO:0005215	GO:0016021	GO:0006810
+./12.fa.txt_orf00127_rev -> GO:0006310	GO:0006281
+./12.fa.txt_orf00127_rev -> 
+./12.fa.txt_orf00127_rev -> 
+./12.fa.txt_orf00128 -> GO:0003735	GO:0005840	GO:0006412	GO:0005622
+./12.fa.txt_orf00129 -> GO:0003735	GO:0005840	GO:0006412	GO:0005622
+./12.fa.txt_orf00131 -> 
+./12.fa.txt_orf00133 -> 
+./12.fa.txt_orf00137_rev -> 
+./12.fa.txt_orf00139 -> GO:0006508	GO:0008235
+./12.fa.txt_orf00139 -> GO:0008451	GO:0030145
+./12.fa.txt_orf00140 -> GO:0006508	GO:0030693
