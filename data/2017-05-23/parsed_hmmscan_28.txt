@@ -1,0 +1,107 @@
+./28.fa.txt_orf00007_rev	PF00271.30  Helicase conserved C-terminal domain	1.8e-13	3	107	351	454
+./28.fa.txt_orf00007_rev	PF00270.28  DEAD/DEAH box helicase	8.9e-07	13	174	123	282
+./28.fa.txt_orf00008_rev	PF11603.7  Regulatory protein Sir1	7.8e-17	35	119	3	88
+./28.fa.txt_orf00011	PF00674.17  DUP family	5.1e-29	3	103	68	167
+./28.fa.txt_orf00011	PF00674.17  DUP family	2.2e-33	3	103	256	353
+./28.fa.txt_orf00013_rev	PF07690.15  Major Facilitator Superfamily	1.1e-13	2	353	77	500
+./28.fa.txt_orf00013_rev	PF06609.12  Fungal trichothecene efflux pump (TRI12)	3.7e-07	7	472	28	515
+./28.fa.txt_orf00018_rev	PF00660.16  Seripauperin and TIP1 family	1.6e-27	1	98	22	114
+./28.fa.txt_orf00020	PF00674.17  DUP family	2.3e-27	4	100	76	171
+./28.fa.txt_orf00023	PF00674.17  DUP family	5.7e-18	9	81	98	169
+./28.fa.txt_orf00024	PF00674.17  DUP family	3.1e-28	6	102	64	161
+./28.fa.txt_orf00032	PF00856.27  SET domain	4.8e-05	15	169	50	281
+./28.fa.txt_orf00037	PF13520.5  Amino acid permease	3.7e-61	1	424	65	500
+./28.fa.txt_orf00037	PF00324.20  Amino acid permease	3.3e-10	6	429	74	476
+./28.fa.txt_orf00039_rev	PF00664.22  ABC transporter transmembrane region	3.1e-21	1	273	338	619
+./28.fa.txt_orf00039_rev	PF00664.22  ABC transporter transmembrane region	1.2e-31	3	270	983	1266
+./28.fa.txt_orf00039_rev	PF00005.26  ABC transporter	4.6e-18	3	136	687	835
+./28.fa.txt_orf00039_rev	PF00005.26  ABC transporter	1.1e-31	2	137	1341	1503
+./28.fa.txt_orf00041_rev	PF00076.21  RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	4.4e-15	1	70	39	113
+./28.fa.txt_orf00043_rev	PF01248.25  Ribosomal protein L7Ae/L30e/S12e/Gadd45 family	1e-23	4	90	120	207
+./28.fa.txt_orf00044_rev	PF02782.15  FGGY family of carbohydrate kinases, C-terminal domain	8e-73	1	197	369	592
+./28.fa.txt_orf00044_rev	PF00370.20  FGGY family of carbohydrate kinases, N-terminal domain	5.8e-41	30	245	109	360
+./28.fa.txt_orf00045_rev	PF12352.7  Snare region anchored in the vesicle membrane C-terminus	3.9e-20	1	66	136	201
+./28.fa.txt_orf00047	PF13001.6  Proteasome stabiliser	6.6e-137	1	495	14	538
+./28.fa.txt_orf00054	PF00096.25  Zinc finger, C2H2 type	0.00039	3	23	214	234
+./28.fa.txt_orf00055_rev	PF10445.8  Protein of unknown function (DUF2456)	2.4e-36	1	95	168	263
+./28.fa.txt_orf00062	PF00076.21  RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	1.1e-09	16	70	114	166
+./28.fa.txt_orf00062	PF00076.21  RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	1.6e-14	1	70	348	414
+./28.fa.txt_orf00066_rev	PF03666.12  Nitrogen Permease regulator of amino acid transport activity 3	1.6e-175	1	467	399	966
+./28.fa.txt_orf00068_rev	PF04406.13  Type IIB DNA topoisomerase	2.1e-14	1	62	106	168
+./28.fa.txt_orf00070_rev	PF02668.15  Taurine catabolism dioxygenase TauD, TfdA family	9.6e-45	13	269	161	444
+./28.fa.txt_orf00072_rev	PF08618.9  Transcription factor Opi1	1.1e-33	217	419	131	361
+./28.fa.txt_orf00075_rev	PF00928.20  Adaptor complexes medium subunit family	5.9e-84	1	263	258	604
+./28.fa.txt_orf00078	PF06814.12  Lung seven transmembrane receptor	2.6e-94	1	295	116	409
+./28.fa.txt_orf00080_rev	PF00474.16  Sodium:solute symporter family	4.8e-16	1	406	48	465
+./28.fa.txt_orf00083	PF00338.21  Ribosomal protein S10p/S20e	1e-24	1	97	23	116
+./28.fa.txt_orf00084_rev	PF06071.12  Protein of unknown function (DUF933)	7.3e-32	1	83	313	398
+./28.fa.txt_orf00084_rev	PF01926.22  50S ribosome-binding GTPase	4.8e-15	3	94	20	131
+./28.fa.txt_orf00085_rev	PF02338.18  OTU-like cysteine protease	2e-33	1	127	173	301
+./28.fa.txt_orf00088	PF01704.17  UTP--glucose-1-phosphate uridylyltransferase	1.2e-124	3	413	48	455
+./28.fa.txt_orf00090_rev	PF14572.5  Phosphoribosyl synthetase-associated domain	7.6e-36	72	185	203	316
+./28.fa.txt_orf00090_rev	PF13793.5  N-terminal domain of ribose phosphate pyrophosphokinase	1.3e-37	2	116	7	123
+./28.fa.txt_orf00090_rev	PF00156.26  Phosphoribosyl transferase domain	2.1e-16	27	151	163	283
+./28.fa.txt_orf00093_rev	PF07576.11  BRCA1-associated protein 2	1.8e-31	5	96	110	207
+./28.fa.txt_orf00093_rev	PF02148.18  Zn-finger in ubiquitin-hydrolases and other protein	8.8e-22	1	61	301	360
+./28.fa.txt_orf00093_rev	PF13639.5  Ring finger domain	3.4e-09	2	44	239	280
+./28.fa.txt_orf00093_rev	PF13923.5  Zinc finger, C3HC4 type (RING finger)	1.4e-06	2	40	240	279
+./28.fa.txt_orf00093_rev	PF13445.5  RING-type zinc-finger	3.8e-05	1	38	240	277
+./28.fa.txt_orf00093_rev	PF00097.24  Zinc finger, C3HC4 type (RING finger)	0.00016	1	41	240	279
+./28.fa.txt_orf00094_rev	PF00170.20  bZIP transcription factor	1.5e-06	6	62	164	220
+./28.fa.txt_orf00097	PF07727.13  Reverse transcriptase (RNA-dependent DNA polymerase)	4.3e-40	9	241	913	1141
+./28.fa.txt_orf00097	PF00665.25  Integrase core domain	1.4e-18	2	116	218	335
+./28.fa.txt_orf00100_rev	PF01226.16  Formate/nitrite transporter	2.6e-59	1	235	16	262
+./28.fa.txt_orf00102_rev	PF00069.24  Protein kinase domain	1e-74	1	264	620	871
+./28.fa.txt_orf00102_rev	PF07714.16  Protein tyrosine kinase	9.2e-48	6	258	625	867
+./28.fa.txt_orf00102_rev	PF00786.27  P21-Rho-binding domain	1.2e-22	1	59	336	394
+./28.fa.txt_orf00103	PF00318.19  Ribosomal protein S2	1.6e-67	1	215	188	383
+./28.fa.txt_orf00104_rev	PF03798.15  TLC domain	6.4e-39	2	198	173	377
+./28.fa.txt_orf00104_rev	PF08390.10  TRAM1-like protein	4.1e-21	1	62	110	167
+./28.fa.txt_orf00107	PF00790.18  VHS domain	5.7e-40	2	140	3	140
+./28.fa.txt_orf00107	PF00018.27  SH3 domain	4.3e-16	1	47	223	267
+./28.fa.txt_orf00107	PF14604.5  Variant SH3 domain	2.7e-12	1	49	224	272
+./28.fa.txt_orf00107	PF07653.16  Variant SH3 domain	4.1e-11	1	54	221	273
+./28.fa.txt_orf00110	PF01929.16  Ribosomal protein L14	7.9e-34	1	75	10	84
+./28.fa.txt_orf00112	PF01237.17  Oxysterol-binding protein	1.2e-82	1	369	53	393
+./28.fa.txt_orf00113	PF09796.8  Ubiquinol-cytochrome-c reductase complex subunit (QCR10)	2.2e-18	17	62	1	46
+./28.fa.txt_orf00114	PF00153.26  Mitochondrial carrier protein	5.9e-22	5	94	33	124
+./28.fa.txt_orf00114	PF00153.26  Mitochondrial carrier protein	4.1e-15	4	94	131	233
+./28.fa.txt_orf00114	PF00153.26  Mitochondrial carrier protein	7.7e-19	3	90	262	352
+./28.fa.txt_orf00115_rev	PF00899.20  ThiF family	6.4e-44	2	238	58	331
+./28.fa.txt_orf00118_rev	PF03031.17  NLI interacting factor-like phosphatase	8.4e-50	1	156	252	431
+./28.fa.txt_orf00120_rev	PF00503.19  G-protein alpha subunit	1.7e-113	1	354	17	457
+./28.fa.txt_orf00120_rev	PF00025.20  ADP-ribosylation factor family	1.2e-10	42	142	293	404
+./28.fa.txt_orf00121_rev	PF02953.14  Tim10/DDP family zinc finger	1.8e-20	3	63	20	81
+./28.fa.txt_orf00128_rev	PF00067.21  Cytochrome P450	7.5e-118	1	462	57	520
+./28.fa.txt_orf00131_rev	PF02777.17  Iron/manganese superoxide dismutases, C-terminal domain	6.9e-34	1	102	125	227
+./28.fa.txt_orf00131_rev	PF00081.21  Iron/manganese superoxide dismutases, alpha-hairpin domain	1.5e-24	3	82	29	115
+./28.fa.txt_orf00132_rev	PF01266.23  FAD dependent oxidoreductase	1.8e-93	1	352	23	497
+./28.fa.txt_orf00132_rev	PF13450.5  NAD(P)-binding Rossmann-like domain	2.7e-06	1	35	26	66
+./28.fa.txt_orf00134	PF01777.17  Ribosomal L27e protein family	2e-36	1	85	70	154
+./28.fa.txt_orf00136	PF00587.24  tRNA synthetase class II core domain (G, H, P, S and T)	3.6e-24	5	178	243	421
+./28.fa.txt_orf00138_rev	PF00583.24  Acetyltransferase (GNAT) family	3e-13	41	113	74	151
+./28.fa.txt_orf00138_rev	PF13673.6  Acetyltransferase (GNAT) domain	1.3e-07	39	126	74	178
+./28.fa.txt_orf00138_rev	PF08445.9  FR47-like protein	3.5e-05	19	79	95	158
+./28.fa.txt_orf00140	PF00076.21  RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	4.6e-17	1	70	113	183
+./28.fa.txt_orf00140	PF00076.21  RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	6.3e-06	7	69	210	267
+./28.fa.txt_orf00140	PF00076.21  RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	4.4e-17	1	69	315	382
+./28.fa.txt_orf00142_rev	PF04366.11  Las17-binding protein actin regulator	6.3e-41	2	126	83	206
+./28.fa.txt_orf00142_rev	PF00018.27  SH3 domain	3.7e-17	1	48	409	456
+./28.fa.txt_orf00142_rev	PF07653.16  Variant SH3 domain	1.6e-13	2	54	408	461
+./28.fa.txt_orf00142_rev	PF14604.5  Variant SH3 domain	2e-12	1	48	410	459
+./28.fa.txt_orf00144	PF08643.9  Fungal family of unknown function (DUF1776)	1.5e-67	1	294	106	357
+./28.fa.txt_orf00146_rev	PF00206.19  Lyase	2.1e-96	1	312	11	307
+./28.fa.txt_orf00146_rev	PF14698.5  Argininosuccinate lyase C-terminal	2e-21	2	69	370	438
+./28.fa.txt_orf00147_rev	PF00152.19  tRNA synthetases class II (D, K and N)	3.6e-92	4	312	233	547
+./28.fa.txt_orf00147_rev	PF01336.24  OB-fold nucleic acid binding domain	1.1e-12	1	75	132	210
+./28.fa.txt_orf00148	PF09180.10  Prolyl-tRNA synthetase, C-terminal	8.1e-25	1	69	602	688
+./28.fa.txt_orf00148	PF03129.19  Anticodon binding domain	8.9e-20	1	93	475	575
+./28.fa.txt_orf00148	PF00587.24  tRNA synthetase class II core domain (G, H, P, S and T)	1.3e-14	7	176	283	456
+./28.fa.txt_orf00152_rev	PF01667.16  Ribosomal protein S27	3e-30	1	55	22	76
+./28.fa.txt_orf00157_rev	PF00071.21  Ras family	5.2e-16	37	161	112	246
+./28.fa.txt_orf00158	PF00063.20  Myosin head (motor domain)	1.7e-283	1	677	67	769
+./28.fa.txt_orf00159_rev	PF05193.20  Peptidase M16 inactive domain	3.2e-48	2	183	182	374
+./28.fa.txt_orf00159_rev	PF00675.19  Insulinase (Peptidase family M16)	1.4e-43	2	148	30	175
+./28.fa.txt_orf00161	PF00288.25  GHMP kinases N terminal domain	6.8e-09	1	66	96	157
+./28.fa.txt_orf00162	PF00137.20  ATP synthase subunit C	5.1e-17	1	59	62	120
+./28.fa.txt_orf00162	PF00137.20  ATP synthase subunit C	6.3e-08	2	60	147	205

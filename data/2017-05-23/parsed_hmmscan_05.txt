@@ -1,0 +1,133 @@
+./05.fa.txt_orf00002_rev	PF04070.11  Domain of unknown function (DUF378)	4.2e-11	1	59	4	63
+./05.fa.txt_orf00004	PF02686.14  Glu-tRNAGln amidotransferase C subunit	1.5e-08	1	62	22	95
+./05.fa.txt_orf00005	PF01425.20  Amidase	5.2e-157	2	451	23	462
+./05.fa.txt_orf00006	PF02934.14  GatB/GatE catalytic domain	1.5e-79	41	272	1	248
+./05.fa.txt_orf00006	PF02637.17  GatB domain	3.1e-43	2	146	289	435
+./05.fa.txt_orf00010_rev	PF17461.1  Family of unknown function (DUF5423)	2.8e-218	49	363	1	315
+./05.fa.txt_orf00011_rev	PF17459.1  Family of unknown function (DUF5422)	1.6e-103	1	153	5	157
+./05.fa.txt_orf00014_rev	PF01351.17  Ribonuclease HII	3.3e-23	1	197	89	290
+./05.fa.txt_orf00014_rev	PF11858.7  Domain of unknown function (DUF3378)	2.6e-16	2	75	5	79
+./05.fa.txt_orf00017	PF13413.5  Helix-turn-helix domain	1.8e-17	2	61	16	75
+./05.fa.txt_orf00018_rev	PF03279.12  Bacterial lipid A biosynthesis acyltransferase	1.7e-106	2	295	8	316
+./05.fa.txt_orf00020_rev	PF02457.15  DisA bacterial checkpoint controller nucleotide-binding	4.1e-37	4	117	93	209
+./05.fa.txt_orf00022	PF01654.16  Cytochrome bd terminal oxidase subunit I	4.8e-143	1	418	6	436
+./05.fa.txt_orf00023	PF02322.14  Cytochrome bd terminal oxidase subunit II	7.1e-81	1	303	9	343
+./05.fa.txt_orf00024_rev	PF02562.15  PhoH-like protein	5.5e-48	2	200	222	430
+./05.fa.txt_orf00024_rev	PF13638.5  PIN domain	1.5e-17	2	132	6	139
+./05.fa.txt_orf00024_rev	PF13604.5  AAA domain	2e-10	2	130	225	390
+./05.fa.txt_orf00024_rev	PF13245.5  AAA domain	5.3e-06	12	141	243	388
+./05.fa.txt_orf00031	PF00133.21  tRNA synthetases class I (I, L, M and V)	7.1e-203	2	601	16	627
+./05.fa.txt_orf00031	PF08264.12  Anticodon-binding domain of tRNA	8.2e-30	1	150	675	823
+./05.fa.txt_orf00031	PF09334.10  tRNA synthetases class I (M)	0.00013	8	61	46	100
+./05.fa.txt_orf00031	PF09334.10  tRNA synthetases class I (M)	0.00015	309	374	570	637
+./05.fa.txt_orf00032_rev	PF00717.22  Peptidase S24-like	1.3e-10	1	55	78	164
+./05.fa.txt_orf00035	PF01197.17  Ribosomal protein L31	3.6e-25	1	66	1	77
+./05.fa.txt_orf00037	PF03462.17  PCRF domain	1.6e-58	3	193	10	202
+./05.fa.txt_orf00037	PF00472.19  RF-1 domain	7.1e-43	3	116	213	321
+./05.fa.txt_orf00038	PF05175.13  Methyltransferase small domain	1e-15	27	109	104	186
+./05.fa.txt_orf00038	PF13649.5  Methyltransferase domain	1.4e-09	3	70	115	180
+./05.fa.txt_orf00038	PF13847.5  Methyltransferase domain	5.2e-09	2	81	108	181
+./05.fa.txt_orf00038	PF06325.12  Ribosomal protein L11 methyltransferase (PrmA)	6.3e-06	157	233	105	181
+./05.fa.txt_orf00038	PF08241.11  Methyltransferase domain	0.00021	2	57	115	172
+./05.fa.txt_orf00038	PF00891.17  O-methyltransferase	0.00021	58	143	92	178
+./05.fa.txt_orf00039	PF00448.21  SRP54-type protein, GTPase domain	1.2e-69	1	196	99	295
+./05.fa.txt_orf00039	PF02978.18  Signal peptide binding domain	2.3e-23	1	98	326	425
+./05.fa.txt_orf00039	PF02881.18  SRP54-type protein, helical bundle domain	2.2e-20	1	75	5	82
+./05.fa.txt_orf00039	PF13401.5  AAA domain	2.7e-06	7	120	101	215
+./05.fa.txt_orf00039	PF06414.11  Zeta toxin	1.4e-05	11	104	94	191
+./05.fa.txt_orf00040	PF00886.18  Ribosomal protein S16	1.9e-18	2	60	10	66
+./05.fa.txt_orf00041	PF01746.20  tRNA (Guanine-1)-methyltransferase	3.1e-52	2	195	23	217
+./05.fa.txt_orf00042	PF01245.19  Ribosomal protein L19	1.3e-39	1	110	3	112
+./05.fa.txt_orf00043	PF01351.17  Ribonuclease HII	2e-33	1	196	30	205
+./05.fa.txt_orf00044	PF00625.20  Guanylate kinase	3e-43	3	180	19	196
+./05.fa.txt_orf00046	PF09334.10  tRNA synthetases class I (M)	1.2e-135	1	391	6	395
+./05.fa.txt_orf00046	PF00133.21  tRNA synthetases class I (I, L, M and V)	1.1e-08	27	156	8	119
+./05.fa.txt_orf00046	PF00133.21  tRNA synthetases class I (I, L, M and V)	9.9e-07	484	601	245	370
+./05.fa.txt_orf00046	PF08264.12  Anticodon-binding domain of tRNA	4.3e-08	3	90	417	504
+./05.fa.txt_orf00048_rev	PF13604.5  AAA domain	5.1e-41	2	175	331	511
+./05.fa.txt_orf00048_rev	PF13245.5  AAA domain	5.8e-31	1	146	335	468
+./05.fa.txt_orf00048_rev	PF14490.5  Helix-hairpin-helix containing domain	1.2e-24	1	92	143	233
+./05.fa.txt_orf00048_rev	PF13538.5  UvrD-like helicase C-terminal domain	4.1e-16	2	52	651	698
+./05.fa.txt_orf00048_rev	PF01443.17  Viral (Superfamily 1) RNA helicase	7.2e-08	2	150	349	510
+./05.fa.txt_orf00048_rev	PF14520.5  Helix-hairpin-helix domain	6e-05	6	51	92	137
+./05.fa.txt_orf00048_rev	PF05127.13  Helicase	2.5e-06	1	113	349	447
+./05.fa.txt_orf00052	PF09825.8  Biotin-protein ligase, N terminal	6.1e-56	3	257	4	247
+./05.fa.txt_orf00058_rev	PF00692.18  dUTPase	8.3e-06	24	125	84	185
+./05.fa.txt_orf00060	PF05496.11  Holliday junction DNA helicase ruvB N-terminus	1e-93	8	232	8	232
+./05.fa.txt_orf00060	PF05491.12  Holliday junction DNA helicase ruvB C-terminus	9.2e-30	1	74	251	324
+./05.fa.txt_orf00060	PF00004.28  ATPase family associated with various cellular activities (AAA)	5.9e-18	2	126	54	172
+./05.fa.txt_orf00060	PF07728.13  AAA domain (dynein-related subfamily)	9.6e-07	2	138	53	170
+./05.fa.txt_orf00061	PF08486.9  Stage II sporulation protein	3.3e-07	7	93	148	232
+./05.fa.txt_orf00062_rev	PF00128.23  Alpha amylase, catalytic domain	8.8e-13	1	80	190	290
+./05.fa.txt_orf00062_rev	PF00128.23  Alpha amylase, catalytic domain	4.1e-05	142	332	321	540
+./05.fa.txt_orf00062_rev	PF02922.17  Carbohydrate-binding module 48 (Isoamylase N-terminal domain)	4.4e-14	1	82	37	124
+./05.fa.txt_orf00063_rev	PF05932.12  Tir chaperone protein (CesT) family	2e-30	2	119	9	130
+./05.fa.txt_orf00065	PF00436.24  Single-strand binding protein family	1.6e-16	6	103	6	98
+./05.fa.txt_orf00066	PF00883.20  Cytosol aminopeptidase family, catalytic domain	2.3e-116	2	310	181	490
+./05.fa.txt_orf00066	PF02789.16  Cytosol aminopeptidase family, N-terminal domain	2.4e-17	1	123	20	143
+./05.fa.txt_orf00068	PF07382.10  Histone H1-like nucleoprotein HC2	1e-35	1	130	1	141
+./05.fa.txt_orf00068	PF07382.10  Histone H1-like nucleoprotein HC2	2e-17	14	104	86	177
+./05.fa.txt_orf00068	PF07382.10  Histone H1-like nucleoprotein HC2	2e-24	80	194	127	237
+./05.fa.txt_orf00078_rev	PF04055.20  Radical SAM superfamily	1.3e-17	2	160	11	172
+./05.fa.txt_orf00081	PF02779.23  Transketolase, pyrimidine binding domain	3.1e-53	3	178	562	756
+./05.fa.txt_orf00081	PF00676.19  Dehydrogenase E1 component	1.1e-50	4	290	176	488
+./05.fa.txt_orf00081	PF16870.4  2-oxoglutarate dehydrogenase C-terminal	9.5e-28	2	152	760	898
+./05.fa.txt_orf00082	PF00198.22  2-oxoacid dehydrogenases acyltransferase (catalytic domain)	1.3e-76	3	232	136	363
+./05.fa.txt_orf00082	PF00364.21  Biotin-requiring enzyme	2.8e-10	2	73	4	75
+./05.fa.txt_orf00084_rev	PF02578.14  Multi-copper polyphenol oxidoreductase laccase	8.3e-39	23	219	31	216
+./05.fa.txt_orf00086_rev	PF04551.13  GcpE protein	5.4e-94	22	256	1	257
+./05.fa.txt_orf00086_rev	PF04551.13  GcpE protein	2.1e-37	211	350	419	559
+./05.fa.txt_orf00090_rev	PF00111.26  2Fe-2S iron-sulfur cluster binding domain	1.3e-12	4	77	9	82
+./05.fa.txt_orf00092	PF00771.19  FHIPEP family	7.9e-72	37	289	6	249
+./05.fa.txt_orf00092	PF00771.19  FHIPEP family	1e-21	462	657	331	515
+./05.fa.txt_orf00093	PF04545.15  Sigma-70, region 4	9.8e-19	1	49	198	246
+./05.fa.txt_orf00093	PF04542.13  Sigma-70 region 2	2.6e-17	1	70	25	97
+./05.fa.txt_orf00093	PF08281.11  Sigma-70, region 4	4.3e-09	3	54	194	245
+./05.fa.txt_orf00093	PF04539.15  Sigma-70 region 3	1.7e-07	3	65	106	170
+./05.fa.txt_orf00094	PF00579.24  tRNA synthetases class I (W and Y)	1.1e-76	5	292	27	313
+./05.fa.txt_orf00094	PF01479.24  S4 domain	3.2e-09	1	42	346	386
+./05.fa.txt_orf00095	PF00393.18  6-phosphogluconate dehydrogenase, C-terminal domain	2.5e-105	1	289	180	471
+./05.fa.txt_orf00095	PF03446.14  NAD binding domain of 6-phosphogluconate dehydrogenase	4.3e-52	1	156	6	173
+./05.fa.txt_orf00096_rev	PF00009.26  Elongation factor Tu GTP binding domain	1e-52	1	193	7	185
+./05.fa.txt_orf00096_rev	PF06421.11  GTP-binding protein LepA C-terminus	1.3e-46	1	107	494	600
+./05.fa.txt_orf00096_rev	PF00679.23  Elongation factor G C-terminus	3e-20	2	80	405	484
+./05.fa.txt_orf00096_rev	PF03144.24  Elongation factor Tu domain 2	4.5e-09	3	74	211	281
+./05.fa.txt_orf00096_rev	PF00071.21  Ras family	1.7e-06	28	159	55	183
+./05.fa.txt_orf00097_rev	PF03219.13  TLC ATP/ADP transporter	1.4e-223	2	491	3	492
+./05.fa.txt_orf00100	PF01297.16  Zinc-uptake complex component A periplasmic	2.6e-44	12	255	1	265
+./05.fa.txt_orf00101	PF00005.26  ABC transporter	3.6e-25	3	135	26	168
+./05.fa.txt_orf00102	PF00950.16  ABC 3 transport family	4.3e-36	19	239	3	237
+./05.fa.txt_orf00102	PF02742.14  Iron dependent repressor, metal binding and dimerisation domain	2.9e-21	1	69	352	420
+./05.fa.txt_orf00102	PF01032.17  FecCD transport family	9.1e-08	85	310	32	267
+./05.fa.txt_orf00103	PF00950.16  ABC 3 transport family	1.2e-28	11	257	43	303
+./05.fa.txt_orf00105	PF02670.15  1-deoxy-D-xylulose 5-phosphate reductoisomerase	1e-36	2	129	5	129
+./05.fa.txt_orf00105	PF08436.11  1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal	2e-36	1	83	143	226
+./05.fa.txt_orf00105	PF13288.5  DXP reductoisomerase C-terminal domain	3.5e-26	1	114	258	374
+./05.fa.txt_orf00106	PF02163.21  Peptidase family M50	3.6e-59	3	248	10	602
+./05.fa.txt_orf00108_rev	PF02463.18  RecF/RecN/SMC N terminal domain	1.6e-15	4	194	5	334
+./05.fa.txt_orf00108_rev	PF13476.5  AAA domain	3.6e-07	1	175	5	170
+./05.fa.txt_orf00108_rev	PF13514.5  AAA domain	3.4e-05	1	99	1	100
+./05.fa.txt_orf00109_rev	PF00712.18  DNA polymerase III beta subunit, N-terminal domain	1.7e-23	1	121	1	119
+./05.fa.txt_orf00109_rev	PF00712.18  DNA polymerase III beta subunit, N-terminal domain	1.3e-05	2	110	126	234
+./05.fa.txt_orf00109_rev	PF02767.15  DNA polymerase III beta subunit, central domain	4.5e-05	2	95	5	94
+./05.fa.txt_orf00109_rev	PF02767.15  DNA polymerase III beta subunit, central domain	5.2e-23	2	116	129	242
+./05.fa.txt_orf00109_rev	PF02768.14  DNA polymerase III beta subunit, C-terminal domain	5e-17	11	121	254	362
+./05.fa.txt_orf00110	PF01668.17  SmpB protein	2.6e-55	1	144	6	148
+./05.fa.txt_orf00112_rev	PF02424.14  ApbE family	4.6e-54	2	253	34	305
+./05.fa.txt_orf00113_rev	PF02882.18  Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain	1.5e-63	1	158	117	284
+./05.fa.txt_orf00113_rev	PF00763.22  Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain	7.6e-35	1	116	2	114
+./05.fa.txt_orf00115	PF17455.1  Late transcription unit B protein	4e-49	1	79	19	97
+./05.fa.txt_orf00120_rev	PF13091.5  PLD-like domain	1.5e-08	1	123	61	171
+./05.fa.txt_orf00120_rev	PF13091.5  PLD-like domain	4.2e-21	2	124	205	320
+./05.fa.txt_orf00122_rev	PF01977.15  3-octaprenyl-4-hydroxybenzoate carboxy-lyase	1.6e-119	2	404	9	419
+./05.fa.txt_orf00123_rev	PF00830.18  Ribosomal L28 family	4.3e-18	1	59	3	74
+./05.fa.txt_orf00124_rev	PF02446.16  4-alpha-glucanotransferase	6e-100	80	454	5	392
+./05.fa.txt_orf00126_rev	PF05932.12  Tir chaperone protein (CesT) family	1.9e-14	1	119	7	127
+./05.fa.txt_orf00127_rev	PF07201.10  HrpJ-like domain	2.1e-20	4	163	61	224
+./05.fa.txt_orf00128_rev	PF00771.19  FHIPEP family	5.3e-232	1	657	4	665
+./05.fa.txt_orf00129_rev	PF01312.18  FlhB HrpN YscU SpaS Family	5.9e-100	1	330	2	341
+./05.fa.txt_orf00131	PF06071.12  Protein of unknown function (DUF933)	1.2e-35	1	84	283	366
+./05.fa.txt_orf00131	PF01926.22  50S ribosome-binding GTPase	1.5e-20	1	93	7	125
+./05.fa.txt_orf00131	PF02421.17  Ferrous iron transport protein B	2.6e-07	3	42	8	47
+./05.fa.txt_orf00132_rev	PF06574.11  FAD synthetase	1.7e-39	6	157	13	158
+./05.fa.txt_orf00132_rev	PF01687.16  Riboflavin kinase	4.4e-28	1	108	176	293

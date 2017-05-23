@@ -1,0 +1,151 @@
+./12.fa.txt_orf00001	PF00903.24  Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily	5e-12	4	128	6	118
+./12.fa.txt_orf00003	PF01022.19  Bacterial regulatory protein, arsR family	4.9e-15	1	46	28	74
+./12.fa.txt_orf00003	PF12840.6  Helix-turn-helix domain	4e-13	2	59	21	78
+./12.fa.txt_orf00004	PF00230.19  Major intrinsic protein	7.2e-56	8	227	25	232
+./12.fa.txt_orf00005	PF01451.20  Low molecular weight phosphotyrosine protein phosphatase	1.4e-23	1	141	4	126
+./12.fa.txt_orf00007	PF03358.14  NADPH-dependent FMN reductase	1.1e-25	1	153	8	151
+./12.fa.txt_orf00009	PF00782.19  Dual specificity phosphatase, catalytic domain	4.6e-11	11	130	28	145
+./12.fa.txt_orf00009	PF00102.26  Protein-tyrosine phosphatase	2.2e-06	151	211	71	130
+./12.fa.txt_orf00009	PF04273.12  Putative phosphatase (DUF442)	4.3e-06	54	103	53	106
+./12.fa.txt_orf00009	PF14566.5  Inositol hexakisphosphate	3.1e-06	95	153	52	111
+./12.fa.txt_orf00010	PF01022.19  Bacterial regulatory protein, arsR family	1.2e-15	2	46	27	71
+./12.fa.txt_orf00010	PF12840.6  Helix-turn-helix domain	2.3e-14	2	61	19	77
+./12.fa.txt_orf00013	PF12849.6  PBP superfamily domain	1.7e-36	2	279	28	284
+./12.fa.txt_orf00013	PF12727.6  PBP superfamily domain	8.1e-36	1	192	54	283
+./12.fa.txt_orf00014	PF00528.21  Binding-protein-dependent transport system inner membrane component	1.4e-20	1	184	109	315
+./12.fa.txt_orf00015	PF00528.21  Binding-protein-dependent transport system inner membrane component	5.3e-21	1	184	90	303
+./12.fa.txt_orf00016	PF00005.26  ABC transporter	1.6e-29	1	137	28	186
+./12.fa.txt_orf00016	PF13304.5  AAA domain, putative AbiEii toxin, Type IV TA system	2.1e-06	221	298	142	215
+./12.fa.txt_orf00019	PF12849.6  PBP superfamily domain	1.8e-31	6	279	26	281
+./12.fa.txt_orf00019	PF12727.6  PBP superfamily domain	2.6e-26	5	192	54	280
+./12.fa.txt_orf00020	PF12727.6  PBP superfamily domain	1.4e-28	12	192	64	283
+./12.fa.txt_orf00020	PF12849.6  PBP superfamily domain	3.8e-28	3	249	27	276
+./12.fa.txt_orf00021	PF12849.6  PBP superfamily domain	8.4e-36	5	280	25	280
+./12.fa.txt_orf00021	PF12727.6  PBP superfamily domain	2.1e-31	1	192	48	278
+./12.fa.txt_orf00023	PF12849.6  PBP superfamily domain	6.1e-34	4	280	27	283
+./12.fa.txt_orf00023	PF12727.6  PBP superfamily domain	5.4e-25	4	192	52	281
+./12.fa.txt_orf00024	PF12849.6  PBP superfamily domain	5.6e-37	12	280	105	358
+./12.fa.txt_orf00024	PF12727.6  PBP superfamily domain	8.6e-08	19	152	145	286
+./12.fa.txt_orf00028_rev	PF13772.5  AIG2-like family	2e-22	1	83	75	159
+./12.fa.txt_orf00028_rev	PF06094.11  Gamma-glutamyl cyclotransferase, AIG2-like	0.00011	1	119	17	137
+./12.fa.txt_orf00031_rev	PF02321.17  Outer membrane efflux protein	7.9e-20	1	186	53	276
+./12.fa.txt_orf00031_rev	PF02321.17  Outer membrane efflux protein	9e-18	2	188	309	488
+./12.fa.txt_orf00032_rev	PF13437.5  HlyD family secretion protein	5.7e-09	2	63	293	357
+./12.fa.txt_orf00032_rev	PF13533.5  Biotin-lipoyl like	2.1e-07	3	48	73	122
+./12.fa.txt_orf00034_rev	PF00005.26  ABC transporter	1e-26	1	136	378	527
+./12.fa.txt_orf00036_rev	PF00486.27  Transcriptional regulatory protein, C terminal	1e-25	1	77	149	220
+./12.fa.txt_orf00036_rev	PF00072.23  Response regulator receiver domain	1.1e-24	1	112	4	114
+./12.fa.txt_orf00037_rev	PF02518.25  Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	1.5e-22	2	110	376	483
+./12.fa.txt_orf00037_rev	PF00512.24  His Kinase A (phospho-acceptor) domain	1.2e-14	1	62	271	332
+./12.fa.txt_orf00037_rev	PF00672.24  HAMP domain	6.4e-13	2	48	219	266
+./12.fa.txt_orf00040_rev	PF00271.30  Helicase conserved C-terminal domain	1.4e-08	35	110	579	669
+./12.fa.txt_orf00040_rev	PF00270.28  DEAD/DEAH box helicase	1.7e-11	1	170	277	436
+./12.fa.txt_orf00040_rev	PF04851.14  Type III restriction enzyme, res subunit	2.3e-08	6	147	278	403
+./12.fa.txt_orf00042_rev	PF00355.25  Rieske [2Fe-2S] domain	6.5e-18	2	85	6	93
+./12.fa.txt_orf00045	PF10604.8  Polyketide cyclase / dehydrase and lipid transport	1.4e-14	4	143	4	142
+./12.fa.txt_orf00046	PF00578.20  AhpC/TSA family	2.8e-28	1	123	27	153
+./12.fa.txt_orf00046	PF08534.9  Redoxin	5.1e-17	2	145	27	167
+./12.fa.txt_orf00047_rev	PF06026.13  Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	6.6e-61	2	172	51	219
+./12.fa.txt_orf00050_rev	PF00590.19  Tetrapyrrole (Corrin/Porphyrin) Methylases	5.9e-21	4	197	1	205
+./12.fa.txt_orf00051	PF02518.25  Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	1.1e-32	1	110	372	487
+./12.fa.txt_orf00051	PF00072.23  Response regulator receiver domain	1.4e-23	1	112	511	624
+./12.fa.txt_orf00051	PF00512.24  His Kinase A (phospho-acceptor) domain	1.3e-15	1	64	260	325
+./12.fa.txt_orf00051	PF08448.9  PAS fold	1.2e-07	4	106	68	176
+./12.fa.txt_orf00053_rev	PF03796.14  DnaB-like helicase C terminal domain	1.2e-10	1	36	190	225
+./12.fa.txt_orf00053_rev	PF03796.14  DnaB-like helicase C terminal domain	2.4e-94	24	255	471	703
+./12.fa.txt_orf00053_rev	PF00772.20  DnaB-like helicase N terminal domain	3.1e-29	2	103	15	116
+./12.fa.txt_orf00053_rev	PF14890.5  Intein splicing domain	1.6e-11	143	222	339	479
+./12.fa.txt_orf00053_rev	PF13481.5  AAA domain	9.1e-07	69	191	493	628
+./12.fa.txt_orf00054	PF01112.17  Asparaginase	5.7e-69	3	299	6	281
+./12.fa.txt_orf00055_rev	PF13376.5  Bacteriocin-protection, YdeI or OmpD-Associated	1.6e-22	2	60	126	184
+./12.fa.txt_orf00057_rev	PF13715.5  CarboxypepD_reg-like domain	2.2e-08	2	58	118	173
+./12.fa.txt_orf00057_rev	PF13620.5  Carboxypeptidase regulatory-like domain	4.2e-08	3	76	118	187
+./12.fa.txt_orf00058_rev	PF00581.19  Rhodanese-like domain	6.7e-19	4	106	25	115
+./12.fa.txt_orf00060_rev	PF05685.11  Putative restriction endonuclease	7.3e-13	55	143	47	151
+./12.fa.txt_orf00061	PF05532.11  CsbD-like	3.4e-17	2	52	6	56
+./12.fa.txt_orf00062	PF02272.18  DHHA1 domain	8.3e-17	40	136	355	447
+./12.fa.txt_orf00062	PF01368.19  DHH family	2.8e-09	2	80	83	205
+./12.fa.txt_orf00065	PF00206.19  Lyase	2.3e-57	8	310	8	284
+./12.fa.txt_orf00065	PF10397.8  Adenylosuccinate lyase C-terminus	4.6e-26	1	72	350	428
+./12.fa.txt_orf00072_rev	PF13517.5  Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella	2.4e-06	1	61	386	447
+./12.fa.txt_orf00072_rev	PF13517.5  Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella	1.5e-06	1	61	436	497
+./12.fa.txt_orf00072_rev	PF13517.5  Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella	3e-07	1	61	486	547
+./12.fa.txt_orf00073	PF02583.16  Metal-sensitive transcriptional repressor	9.1e-27	3	76	26	103
+./12.fa.txt_orf00077	PF09150.9  Orange carotenoid protein, N-terminal	5.7e-63	6	151	19	164
+./12.fa.txt_orf00077	PF02136.19  Nuclear transport factor 2 (NTF2) domain	2.9e-08	8	118	203	309
+./12.fa.txt_orf00077	PF12680.6  SnoaL-like domain	2.7e-06	3	47	203	248
+./12.fa.txt_orf00079_rev	PF12698.6  ABC-2 family transporter protein	7.5e-24	10	344	42	389
+./12.fa.txt_orf00079_rev	PF12679.6  ABC-2 family transporter protein	1.1e-18	3	287	17	396
+./12.fa.txt_orf00079_rev	PF01061.23  ABC-2 type transporter	2.4e-06	46	173	185	327
+./12.fa.txt_orf00080_rev	PF00005.26  ABC transporter	4.9e-27	2	137	18	161
+./12.fa.txt_orf00081_rev	PF00561.19  alpha/beta hydrolase fold	3.9e-30	2	253	49	405
+./12.fa.txt_orf00081_rev	PF08386.9  TAP-like protein	1.2e-17	4	103	331	429
+./12.fa.txt_orf00081_rev	PF12697.6  Alpha/beta hydrolase family	1.9e-06	5	200	54	402
+./12.fa.txt_orf00082_rev	PF00069.24  Protein kinase domain	5e-42	6	260	24	297
+./12.fa.txt_orf00082_rev	PF07714.16  Protein tyrosine kinase	1.9e-25	6	256	24	295
+./12.fa.txt_orf00084_rev	PF02518.25  Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	5.5e-26	3	107	509	616
+./12.fa.txt_orf00084_rev	PF00512.24  His Kinase A (phospho-acceptor) domain	9.4e-19	1	64	394	462
+./12.fa.txt_orf00084_rev	PF00672.24  HAMP domain	3.6e-11	2	48	215	262
+./12.fa.txt_orf00084_rev	PF00989.24  PAS fold	8.9e-08	2	112	278	384
+./12.fa.txt_orf00084_rev	PF13188.6  PAS domain	6.6e-06	2	59	278	333
+./12.fa.txt_orf00084_rev	PF08448.9  PAS fold	4.1e-05	7	108	289	388
+./12.fa.txt_orf00085	PF00149.27  Calcineurin-like phosphoesterase	2.5e-14	2	204	67	286
+./12.fa.txt_orf00086	PF08843.10  Nucleotidyl transferase AbiEii toxin, Type IV TA system	2.6e-13	13	211	33	194
+./12.fa.txt_orf00087	PF13715.5  CarboxypepD_reg-like domain	1.9e-10	3	66	104	164
+./12.fa.txt_orf00087	PF13620.5  Carboxypeptidase regulatory-like domain	1.6e-07	4	72	104	165
+./12.fa.txt_orf00087	PF00404.17  Dockerin type I repeat	3.4e-05	1	20	30	49
+./12.fa.txt_orf00089	PF00404.17  Dockerin type I repeat	1.3e-05	1	20	26	45
+./12.fa.txt_orf00089	PF13620.5  Carboxypeptidase regulatory-like domain	3.1e-08	4	65	106	163
+./12.fa.txt_orf00089	PF13715.5  CarboxypepD_reg-like domain	2.3e-08	3	73	106	175
+./12.fa.txt_orf00090	PF13715.5  CarboxypepD_reg-like domain	4.1e-09	2	58	116	171
+./12.fa.txt_orf00090	PF00404.17  Dockerin type I repeat	9.7e-06	1	20	24	43
+./12.fa.txt_orf00090	PF13620.5  Carboxypeptidase regulatory-like domain	2.3e-07	3	63	116	172
+./12.fa.txt_orf00092_rev	PF05433.14  Glycine zipper 2TM domain	7.7e-06	1	41	316	356
+./12.fa.txt_orf00094_rev	PF00196.18  Bacterial regulatory proteins, luxR family	1.8e-12	3	45	148	190
+./12.fa.txt_orf00094_rev	PF00072.23  Response regulator receiver domain	8.3e-09	1	109	5	128
+./12.fa.txt_orf00096_rev	PF14681.5  Uracil phosphoribosyltransferase	3.1e-61	1	207	7	215
+./12.fa.txt_orf00097_rev	PF11352.7  Protein of unknown function (DUF3155)	5.5e-46	6	87	1	82
+./12.fa.txt_orf00099_rev	PF06144.12  DNA polymerase III, delta subunit	8.1e-30	1	174	4	175
+./12.fa.txt_orf00102_rev	PF03572.17  Peptidase family S41	1.4e-54	2	166	228	389
+./12.fa.txt_orf00102_rev	PF13180.5  PDZ domain	9.8e-07	3	79	128	205
+./12.fa.txt_orf00104_rev	PF01627.22  Hpt domain	5.8e-14	1	84	32	114
+./12.fa.txt_orf00106_rev	PF00696.27  Amino acid kinase family	1e-41	3	240	4	231
+./12.fa.txt_orf00106_rev	PF01472.19  PUA domain	2.3e-20	1	72	276	348
+./12.fa.txt_orf00109	PF00202.20  Aminotransferase class-III	7.1e-76	6	375	38	400
+./12.fa.txt_orf00110	PF01252.17  Signal peptidase (SPase) II	2.6e-34	2	133	12	146
+./12.fa.txt_orf00112	PF00849.21  RNA pseudouridylate synthase	7.6e-36	1	160	93	246
+./12.fa.txt_orf00112	PF01479.24  S4 domain	8.4e-09	1	48	20	66
+./12.fa.txt_orf00114_rev	PF15575.5  Immunity protein 49	6.2e-44	10	214	62	270
+./12.fa.txt_orf00115	PF01223.22  DNA/RNA non-specific endonuclease	5.6e-55	8	225	46	264
+./12.fa.txt_orf00116	PF01527.19  Transposase	1.2e-14	4	74	5	75
+./12.fa.txt_orf00117	PF00665.25  Integrase core domain	1.1e-25	5	118	125	236
+./12.fa.txt_orf00117	PF13683.5  Integrase core domain	3.4e-16	2	67	209	275
+./12.fa.txt_orf00117	PF13276.5  HTH-like domain	2.2e-15	6	59	47	98
+./12.fa.txt_orf00117	PF13610.5  DDE domain	1.2e-08	3	139	127	267
+./12.fa.txt_orf00117	PF13333.5  Integrase core domain	1.1e-06	1	49	227	280
+./12.fa.txt_orf00118	PF13612.5  Transposase DDE domain	3.1e-10	128	154	1	27
+./12.fa.txt_orf00120	PF02392.15  Ycf4	5.2e-70	1	178	10	187
+./12.fa.txt_orf00122	PF07748.12  Glycosyl hydrolases family 38 C-terminal domain	6.2e-92	2	457	629	1045
+./12.fa.txt_orf00122	PF01074.21  Glycosyl hydrolases family 38 N-terminal domain	8.2e-84	1	289	255	515
+./12.fa.txt_orf00122	PF09261.10  Alpha mannosidase middle domain	2.8e-24	1	80	521	599
+./12.fa.txt_orf00122	PF03065.14  Glycosyl hydrolase family 57	1.8e-06	111	223	315	424
+./12.fa.txt_orf00123	PF01694.21  Rhomboid family	3.6e-25	6	148	56	193
+./12.fa.txt_orf00124_rev	PF13692.5  Glycosyl transferases group 1	2.2e-25	3	118	198	319
+./12.fa.txt_orf00124_rev	PF00534.19  Glycosyl transferases group 1	2.3e-24	16	142	197	319
+./12.fa.txt_orf00124_rev	PF13439.5  Glycosyltransferase Family 4	1e-21	5	170	16	181
+./12.fa.txt_orf00124_rev	PF13579.5  Glycosyl transferase 4-like domain	1.4e-15	4	160	16	176
+./12.fa.txt_orf00125_rev	PF07690.15  Major Facilitator Superfamily	7.8e-25	1	349	29	371
+./12.fa.txt_orf00125_rev	PF07690.15  Major Facilitator Superfamily	3.7e-12	3	171	240	408
+./12.fa.txt_orf00125_rev	PF05977.12  Transmembrane secretion effector	1e-13	7	376	21	391
+./12.fa.txt_orf00125_rev	PF00083.23  Sugar (and other) transporter	4.6e-05	47	147	270	367
+./12.fa.txt_orf00127_rev	PF02565.14  Recombination protein O C terminal	5.1e-23	2	154	86	240
+./12.fa.txt_orf00127_rev	PF11967.7  Recombination protein O N terminal	2.3e-20	4	80	6	81
+./12.fa.txt_orf00127_rev	PF13114.5  RecO N terminal	1.3e-06	3	67	10	79
+./12.fa.txt_orf00128	PF00297.21  Ribosomal protein L3	4.3e-13	209	288	100	181
+./12.fa.txt_orf00129	PF00573.21  Ribosomal protein L4/L1 family	3.6e-61	2	191	18	207
+./12.fa.txt_orf00131	PF00276.19  Ribosomal protein L23	4.6e-31	1	85	11	95
+./12.fa.txt_orf00133	PF04972.16  BON domain	1.2e-16	1	68	124	189
+./12.fa.txt_orf00137_rev	PF13302.6  Acetyltransferase (GNAT) domain	2.1e-20	4	137	13	152
+./12.fa.txt_orf00139	PF00557.23  Metallopeptidase family M24	9.5e-47	3	209	170	433
+./12.fa.txt_orf00139	PF05195.15  Aminopeptidase P, N-terminal domain	1.1e-15	2	109	11	111
+./12.fa.txt_orf00140	PF00656.21  Caspase domain	3.1e-28	2	239	7	296
