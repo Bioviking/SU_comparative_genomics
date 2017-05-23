@@ -1,12 +1,16 @@
 import sys
 import glob 
 from Bio import SeqIO
+import numpy as np
+import matplotlib.pyplot as plt
 
-
+x_frac = []    
+y_ave = []
 for name in glob.glob('out_phob_*.txt'):
     record = {}
     total_TM = 0
     id_count = 0
+    great_TM = 0
     SP_count = 0
     zero_TM = 0
     file_1 = open(name, 'r')
@@ -16,51 +20,77 @@ for name in glob.glob('out_phob_*.txt'):
         #print(file_1[ele])
         line = file_1[ele].split()
         #print(line)
-        for ele2 in line:
-            print(ele2)           
-            if ele2.startswith('.'):
-                id_count+= 1
-            elif line[0] > 0:
-                print('Yes') 
-            #    print(seq_id)
-            #for tm_no in line[1]:
-            #    print(tm_no)
-            #for sp_count in line[2]:
-            #    print(sp_count)
+        #print(line)
+        if line[0]:
+            id_count+= 1
+        
+        if line[1] == '0':
+            zero_TM += 1
+   
+        if line[1] != '0':
+            great_TM += 1
+            i_ele = int(line[1])
+            total_TM += i_ele
             
-        print(id_count)    
-'''            
-            
-            elif ele2.isdigit() == True:
-                print('Yes')            
-            #    ele2.type == int:
-                i_ele2 = int(ele2)
-                print(i_ele2)
-            #elif line[(ele2)] > 0:
-               # total_TM += int(line[ele])
-            #elif line[ele2] == 0:
-             #       zero_TM += 1
-            #elif line[ele2] == 'Y':
-             #   SP_count += 1
-           
-'''                                     
+        if line[2] == 'Y':
+            SP_count += 1   
 
-                
-             
-#       temp = ele.split()
-       #print(temp)
-       #print(title)
-            #record[title(i)] = temp[ele]
-            #print(record)
-            #record[title[2]] = int(temp[1])
-            #record[title[3]] = int(temp[2])
-            #record[title[4]] = temp[3]
-        #for entry in record:
-         #    print(entry)
-         #   title = file_1[]
-          #  print(title)
-        #print(file_1)
-        #for ele in file_1:
-         #   print(ele)
-            
-         #   print
+    frac_zero = zero_TM/id_count
+    frac_great = great_TM/id_count #Fract of TM protein = x
+    ave_TM = total_TM/great_TM      #Ave number of TM segment = y
+    frac_SP = SP_count/great_TM
+      
+    print(name)    
+    print('TM zero', frac_zero)
+    print('TM greater', frac_great)
+    print('TM average', ave_TM)
+    print('TM SP', frac_SP)
+    print('\n')
+    
+#for frac_great, ave_TM in name:
+          
+    colors = ['b', 'c', 'y', 'm', 'r']
+
+    
+
+    x_frac.append(frac_great)
+    y_ave.append(ave_TM)
+
+
+lo0 = plt.scatter(x_frac[0], y_ave[0], color=colors[0])
+lo1 = plt.scatter(x_frac[1], y_ave[1], color=colors[1])
+lo2 = plt.scatter(x_frac[2], y_ave[2], color=colors[2])
+lo3 = plt.scatter(x_frac[3], y_ave[3], color=colors[3])
+lo4 = plt.scatter(x_frac[4], y_ave[4], color=colors[4])
+plt.ylim(0,8)
+plt.show()
+'''
+ll = plt.scatter(random(10), random(10), marker='o', color=colors[0])
+l  = plt.scatter(random(10), random(10), marker='o', color=colors[1])
+a  = plt.scatter(random(10), random(10), marker='o', color=colors[2])
+h  = plt.scatter(random(10), random(10), marker='o', color=colors[3])
+hh = plt.scatter(random(10), random(10), marker='o', color=colors[4])
+ho = plt.scatter(random(10), random(10), marker='x', color=colors[4])
+'''
+'''
+plt.legend((lo, ll, l, a, h, hh, ho),
+           ('Low Outlier', 'LoLo', 'Lo', 'Average', 'Hi', 'HiHi', 'High Outlier'),
+           scatterpoints=1,
+           loc='lower left',
+           ncol=3,
+           fontsize=8)
+'''
+    
+    
+#def scatter(frac_great, ave_TM):
+        
+   
+#N = 50
+#x = np.array(frac_great)
+#y = np.array(ave_TM)
+#colors = np.random.rand(N)
+#area = np.pi * (15 * np.random.rand(N))**2  # 0 to 15 point radii
+
+#    plt.scatter(frac_great, ave_TM, color= 'r')
+#plt.show()
+
