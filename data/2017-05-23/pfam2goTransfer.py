@@ -36,7 +36,7 @@ for aLine in lines:
 	words = aLine.split ("\t")
 	ac = words [0]
 	arch = words [1]
-
+	print arch
 	lDomains = {}
 
 	for domain in arch.split ():
