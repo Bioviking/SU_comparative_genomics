@@ -1,0 +1,7 @@
+######################INSTRUCTIONS######################
+
+1) You will see all the plots I got
+
+2) You will find Gene Names for the "Experiment Gene Sets" part of the practical in the file "gn.fasta"
+
+3) experiments.txt is already inside the "2017-05-24" file
