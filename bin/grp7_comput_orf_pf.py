@@ -17,13 +17,31 @@ import string
 from Bio.SeqUtils import GC
 import math 
 import re
+
+
 def comput_orf(name):
     f1 = open(name, 'r')
+    f1 = f1.read()
     #print(f1)
-    record = SeqIO.read(f1, "fasta")
-    table = 11
-    min_pro_len = 100
+    f1 = f1.split('\n')
+    #print(f1[1])
     
+    name = name.strip('.')
+    name = name.split('/')
+    name = name[3].split('.')
+    print(name[0])
+    
+    #print(f1)
+    #record = SeqIO.read(f1, "fasta")
+    #table = 11
+    #min_pro_len = 100
+    
+    
+    with open('Trans_orf_pos_%s.fasta' % (name[0]), 'w+') as orf_write:
+        print(six_frame_translations(f1[1]))
+        orf_write.write('>%s.fasta\n %s' % (name[0], six_frame_translations(f1[1])))
+    
+'''    
     for strand, nuc in [(+1, record.seq), (-1, record.seq.reverse_complement())]:         
         #print(strand)
         #print(nuc)
@@ -37,10 +55,11 @@ def comput_orf(name):
             #seq_frame = str(nuc[frame:frame+length].translate(table, to_stop=True))
             #print(seq_frame[])
             for pro in nuc[frame:frame+length].translate(table).split("*"):   
-                count 
+                #count 
                 if len(pro) >= min_pro_len:
                     print("%s...%s - length %i, strand %i, frame %i" % (pro[:30], pro[-3:], len(pro), strand, frame))
                     print('\n')
+'''
 '''                
 #            for pro in nuc[frame:frame+length].translate(table).split("*"):                
                 
@@ -59,9 +78,7 @@ def comput_orf(name):
                     #print("%s...%s - length %i, strand %i, frame %i" 
                     #\ % (pro[:30], pro[-3:], len(pro), strand, frame))
     
-    #f1 = f1.read()
-    #print(f1)
-    #f1 = f1.split('\n')
+    
     
     #print(six_frame_translations(f1[1]))
 

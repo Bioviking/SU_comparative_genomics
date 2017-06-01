@@ -1,0 +1,84 @@
+>t 	 orf1 	 Length: 12 
+00-12: GTG TAG 	 Strand 1 
+>t 	 orf2 	 Length: 15 
+00-15: GTG TAA 	 Strand 1 
+>t 	 orf3 	 Length: 18 
+00-18: GTG TGA 	 Strand 1 
+>t 	 orf4 	 Length: 9 
+03-12: ATG TAG 	 Strand 1 
+>t 	 orf5 	 Length: 12 
+03-15: ATG TAA 	 Strand 1 
+>t 	 orf6 	 Length: 15 
+03-18: ATG TGA 	 Strand 1 
+>t 	 orf7 	 Length: 6 
+06-12: TTG TAG 	 Strand 1 
+>t 	 orf8 	 Length: 9 
+06-15: TTG TAA 	 Strand 1 
+>t 	 orf9 	 Length: 12 
+06-18: TTG TGA 	 Strand 1 
+>t 	 orf10 	 Length: 9 
+02-11: ATG TAG 	 Strand 2 
+>t 	 orf11 	 Length: 12 
+02-14: ATG TAA 	 Strand 2 
+>t 	 orf12 	 Length: 15 
+02-17: ATG TGA 	 Strand 2 
+>t 	 orf13 	 Length: 6 
+05-11: TTG TAG 	 Strand 2 
+>t 	 orf14 	 Length: 9 
+05-14: TTG TAA 	 Strand 2 
+>t 	 orf15 	 Length: 12 
+05-17: TTG TGA 	 Strand 2 
+>t 	 orf16 	 Length: 9 
+01-10: ATG TAG 	 Strand 3 
+>t 	 orf17 	 Length: 12 
+01-13: ATG TAA 	 Strand 3 
+>t 	 orf18 	 Length: 15 
+01-16: ATG TGA 	 Strand 3 
+>t 	 orf19 	 Length: 6 
+04-10: TTG TAG 	 Strand 3 
+>t 	 orf20 	 Length: 9 
+04-13: TTG TAA 	 Strand 3 
+>t 	 orf21 	 Length: 12 
+04-16: TTG TGA 	 Strand 3 
+>t 	 orf22 	 Length: 12 
+00-12: GTG TAG 	 Strand -1 
+>t 	 orf23 	 Length: 15 
+00-15: GTG TAA 	 Strand -1 
+>t 	 orf24 	 Length: 18 
+00-18: GTG TGA 	 Strand -1 
+>t 	 orf25 	 Length: 9 
+03-12: ATG TAG 	 Strand -1 
+>t 	 orf26 	 Length: 12 
+03-15: ATG TAA 	 Strand -1 
+>t 	 orf27 	 Length: 15 
+03-18: ATG TGA 	 Strand -1 
+>t 	 orf28 	 Length: 6 
+06-12: TTG TAG 	 Strand -1 
+>t 	 orf29 	 Length: 9 
+06-15: TTG TAA 	 Strand -1 
+>t 	 orf30 	 Length: 12 
+06-18: TTG TGA 	 Strand -1 
+>t 	 orf31 	 Length: 9 
+02-11: ATG TAG 	 Strand -2 
+>t 	 orf32 	 Length: 12 
+02-14: ATG TAA 	 Strand -2 
+>t 	 orf33 	 Length: 15 
+02-17: ATG TGA 	 Strand -2 
+>t 	 orf34 	 Length: 6 
+05-11: TTG TAG 	 Strand -2 
+>t 	 orf35 	 Length: 9 
+05-14: TTG TAA 	 Strand -2 
+>t 	 orf36 	 Length: 12 
+05-17: TTG TGA 	 Strand -2 
+>t 	 orf37 	 Length: 9 
+01-10: ATG TAG 	 Strand -3 
+>t 	 orf38 	 Length: 12 
+01-13: ATG TAA 	 Strand -3 
+>t 	 orf39 	 Length: 15 
+01-16: ATG TGA 	 Strand -3 
+>t 	 orf40 	 Length: 6 
+04-10: TTG TAG 	 Strand -3 
+>t 	 orf41 	 Length: 9 
+04-13: TTG TAA 	 Strand -3 
+>t 	 orf42 	 Length: 12 
+04-16: TTG TGA 	 Strand -3 
